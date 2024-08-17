@@ -1,8 +1,10 @@
-working on [discord-music-presence](https://github.com/jonasberge/discord-music-presence),
-a cross-platform desktop application for sharing your music listening activity on Discord,  
-and [loon](https://github.com/jonasberge/loon),
-a client-server protocol to make local files available online via HTTPS
-for a temporary amount of time.
+working on [music presence](https://github.com/ungive/discord-music-presence), [loon](https://github.com/ungive/loon) and [libupdate](https://github.com/ungive/libupdate).
+
+𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 [𝚖𝚞𝚜𝚒𝚌 𝚙𝚛𝚎𝚜𝚎𝚗𝚌𝚎](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚞𝚗𝚐𝚒𝚟𝚎/𝚍𝚒𝚜𝚌𝚘𝚛𝚍-𝚖𝚞𝚜𝚒𝚌-𝚙𝚛𝚎𝚜𝚎𝚗𝚌𝚎), [𝚕𝚘𝚘𝚗](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚞𝚗𝚐𝚒𝚟𝚎/𝚕𝚘𝚘𝚗) 𝚊𝚗𝚍 [𝚕𝚒𝚋𝚞𝚙𝚍𝚊𝚝𝚎](𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚞𝚗𝚐𝚒𝚟𝚎/𝚕𝚒𝚋𝚞𝚙𝚍𝚊𝚝𝚎).
+
+public keys:  
+https://github.com/ungive/keys  
+https://vandenbe.com/keys
 
 <!--
 **jonasberge/jonasberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
