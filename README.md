@@ -1,8 +1,4 @@
-working on [Music Presence](https://github.com/ungive/discord-music-presence), [loon](https://github.com/ungive/loon) and [libupdate](https://github.com/ungive/libupdate).
-
-public keys:  
-https://github.com/ungive/keys  
-https://vandenbe.com/keys
+working on [musicpresence](https://github.com/ungive/discord-music-presence), [loon](https://github.com/ungive/loon) and [update](https://github.com/ungive/update) &mdash; keys: [vandenbe.com/keys](https://vandenbe.com/keys) [github.com/ungive/keys](https://github.com/ungive/keys)
 
 <!--
 **jonasberge/jonasberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
