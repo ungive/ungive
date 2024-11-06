@@ -1,5 +1,5 @@
 working on [musicpresence](https://github.com/ungive/discord-music-presence), [loon](https://github.com/ungive/loon) and [update](https://github.com/ungive/update) &mdash; keys: [vandenbe.com/keys](https://vandenbe.com/keys) [github.com/ungive/keys](https://github.com/ungive/keys)  
-support my work on [patreon](https://patreon.com/musicpresence), [liberapay](https://liberapay.com/jonasvandenberg) or here on [github](https://github.com/sponsors/ungive)  
+ways to support my work: [bio.site/musicpresence](https://bio.site/musicpresence)
 
 <!--
 **jonasberge/jonasberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
