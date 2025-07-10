@@ -1,17 +1,13 @@
-working on [musicpresence](https://github.com/ungive/discord-music-presence), [loon](https://github.com/ungive/loon) and [update](https://github.com/ungive/update) &mdash; keys: [public.vandenbe.com/keys](https://public.vandenbe.com/keys) [github.com/ungive/keys](https://github.com/ungive/keys)  
-ways to support my work: [bio.site/musicpresence](https://bio.site/musicpresence)
+[![](./github-profile-banner-peerlist.png)](https://peerlist.io/ungive/project/music-presence)
 
-<!--
-**jonasberge/jonasberge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on these apps:
 
-Here are some ideas to get you started:
+- [**Music Presence**](https://musicpresence.app) &ndash;
+  An app that shares media from any media player in your Discord status
+  and soon enables you to scrobble that same media to your last.fm profile
+- [**Media Control**](https://github.com/ungive/media-control-extension) &ndash;
+  A modern browser extension to see and control all media that is playing in your tabs.
+  Soon integrates with Music Presence to allow it to share media from websites as well
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can donate to support my work:
+[musicpresence.app/donate](https://musicpresence.app/donate?utm_source=github.com&utm_medium=profile)
