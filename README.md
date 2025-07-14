@@ -1,5 +1,3 @@
-[![](./github-profile-banner-peerlist.png)](https://peerlist.io/ungive/project/music-presence)
-
 I'm currently working on these apps:
 
 - [**Music Presence**](https://musicpresence.app) &ndash;
